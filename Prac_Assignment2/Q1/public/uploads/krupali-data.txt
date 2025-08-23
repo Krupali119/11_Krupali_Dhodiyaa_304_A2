@@ -1,0 +1,8 @@
+
+      Username: krupali
+      Email: kuku@gmail.com
+      Gender: Female
+      Hobbies: Sports, Music
+      Profile Pic: 1755877564402-ap2.jpg
+      Other Pics: 1755877564403-ap.jpg
+    
